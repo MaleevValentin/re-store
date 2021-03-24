@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fecbd71c-ce32-4b33-8c7b-0163ba276fd6" name="Default Changelist" comment="feat: add container component">
+    <list default="true" id="fecbd71c-ce32-4b33-8c7b-0163ba276fd6" name="Default Changelist" comment="feat: connect ShoppingCartTable to Redux">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/shopping-cart-table/shopping-cart-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shopping-cart-table/shopping-cart-table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/book-list-item/book-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/book-list-item/book-list-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/book-list/book-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/book-list/book-list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,7 @@
       <workItem from="1616035906119" duration="8352000" />
       <workItem from="1616121991831" duration="8108000" />
       <workItem from="1616467326262" duration="6616000" />
-      <workItem from="1616555233963" duration="1456000" />
+      <workItem from="1616555233963" duration="5158000" />
     </task>
     <task id="LOCAL-00001" summary="init: start re-store app">
       <created>1616469545261</created>
@@ -91,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616475014785</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: connect ShoppingCartTable to Redux">
+      <created>1616556958636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616556958636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +123,7 @@
     <MESSAGE value="feat: add argument ownProps to mapDispatchToProps" />
     <MESSAGE value="ref: naming convention" />
     <MESSAGE value="feat: add container component" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add container component" />
+    <MESSAGE value="feat: connect ShoppingCartTable to Redux" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: connect ShoppingCartTable to Redux" />
   </component>
 </project>
