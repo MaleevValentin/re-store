@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fecbd71c-ce32-4b33-8c7b-0163ba276fd6" name="Default Changelist" comment="ref: reducer code">
+    <list default="true" id="fecbd71c-ce32-4b33-8c7b-0163ba276fd6" name="Default Changelist" comment="feat: store enhancer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
     </list>
@@ -63,7 +63,7 @@
       <workItem from="1616467326262" duration="6616000" />
       <workItem from="1616555233963" duration="5257000" />
       <workItem from="1616616182386" duration="8246000" />
-      <workItem from="1617210899637" duration="5924000" />
+      <workItem from="1617210899637" duration="7267000" />
     </task>
     <task id="LOCAL-00001" summary="init: start re-store app">
       <created>1616469545261</created>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617214783758</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: store enhancer">
+      <created>1617217236949</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617217236949</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +156,7 @@
     <MESSAGE value="feat: add elems to array" />
     <MESSAGE value="feat: update elems in array" />
     <MESSAGE value="ref: reducer code" />
-    <option name="LAST_COMMIT_MESSAGE" value="ref: reducer code" />
+    <MESSAGE value="feat: store enhancer" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: store enhancer" />
   </component>
 </project>
